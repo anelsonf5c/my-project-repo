@@ -1,0 +1,27 @@
+# Node modules directory
+node_modules/
+
+# Compiled CSS files from SCSS
+css/style.css
+
+# SASS cache files
+.sass-cache/
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio Code settings
+.vscode/
+
+# Environment variables file
+.env
